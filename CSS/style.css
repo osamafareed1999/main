@@ -1,0 +1,42 @@
+.group1 {
+    background-color: rgb(252, 182, 97);
+    text-align: center;
+}
+
+.names {
+    font-size: x-large;
+}
+
+body {
+    background-color: rgb(158, 168, 62);
+    opacity: 0.9;
+
+}
+
+.name99 {
+    color: rgb(248, 223, 140);
+}
+
+.image {
+    align-self: center;
+}
+
+.contact {
+    background-color: blanchedalmond;
+}
+
+.legend {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
